@@ -53,6 +53,11 @@
       "filename": "../../selectai-agent/selectai-agent.md"
     },
     {
+      "title": "Lab 9: Final Quiz",
+      "description": "Check your understanding with scored questions.",
+      "filename": "../../final-quiz/final-quiz.md"
+    },
+    {
       "title": "Need Help?",
       "description": "Solutions to common problems and directions for receiving Live Help.",
       "filename": "https://livelabs.oracle.com/cdn/common/labs/need-help/need-help-freetier.md"
