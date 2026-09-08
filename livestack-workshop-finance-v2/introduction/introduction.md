@@ -1,4 +1,4 @@
-# Build Connected Finance Solutions with Oracle AI Database 26ai
+# Build Connected Finance Solutions with Oracle AI Database
 
 ## Introduction
 
